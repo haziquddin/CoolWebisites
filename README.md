@@ -12,13 +12,14 @@
 [Retro Tech](https://www.future-forms.com/portfolio-item/sharp-ct-411-lcd-clock-necklace/)\
 [EDC India](https://ledflashlights.in/collections/general-utility-everyday-carry-led-flashlights)\
 [30 Days JS challenge](https://javascript30.com/)\
-<!--
-[Link text Here](huhhh)
-[Link text Here](huhhh)
-[Link text Here](huhhh)
-[Link text Here](huhhh)
-[Link text Here](huhhh)
-[Link text Here](huhhh)
-[Link text Here](huhhh)
-[Link text Here](huhhh)
--->
+[Video Downloader](https://youtube4kdownloader.com/en72/)\
+[Dumb Peoples Awards](https://darwinawards.com/)\
+[Best Personal Websites](https://samdickie.medium.com/the-best-personal-websites-ive-seen-2019-ab6d5c64f3ea)\
+[Flask Example](https://www.fullstackpython.com/flask-code-examples.html)\
+[Stock Details](https://www.quiverquant.com/)\
+[Learn Nihon](https://www.tofugu.com/learn-japanese/)\
+[History Map](https://history-maps.com/story/History-of-India)\
+[JP Job Post](https://japan-dev.com/blog/how-and-why-i-built-japan-dev)\
+[Open Source Alt](https://www.opensourcealternative.to/)\
+
+
